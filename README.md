@@ -1,5 +1,5 @@
-<div>
-  <p>Oii! Seja bem vindo ao meu Github</p>
+<div align="center">
+  <h1>Oii! Seja bem vindo ao meu Github</h1>
 
 <div align="center">
   <a href="https://github.com/JoaoHenriquelm">
